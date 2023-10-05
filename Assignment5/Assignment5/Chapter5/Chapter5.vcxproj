@@ -136,7 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ApplicationVectorOrList.h" />
-    <ClInclude Include="input (1).h" />
+    <ClInclude Include="input.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="Student.h" />
     <ClInclude Include="Vector.h" />

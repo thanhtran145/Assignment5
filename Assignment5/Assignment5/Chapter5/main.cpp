@@ -9,7 +9,7 @@
 //Christian Hernandez
 
 #include<iostream>
-#include"input (1).h"
+#include"input.h"
 #include"Vector.h"
 #include"List.h"
 #include"ApplicationVectorOrList.h"
